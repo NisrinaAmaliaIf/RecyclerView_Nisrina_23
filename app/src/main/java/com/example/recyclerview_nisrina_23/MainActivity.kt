@@ -8,7 +8,7 @@ import androidx.recyclerview.widget.RecyclerView
 
 class MainActivity : AppCompatActivity() {
 
-    companion object{
+    companion object {
         val INTENT_PARCELABLE= "OBJECT_INTENT"
     }
     override fun onCreate(savedInstanceState: Bundle?) {
